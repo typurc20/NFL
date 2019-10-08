@@ -2,7 +2,7 @@ Baltimore Ravens,BAL
 QB,Lamar Jackson,22,2015,80,69,89,89,80,103,1.2,4
 QB,Robert Griffin,29,2009,57,76,84,87,71,98,5.7,2
 QB,Trace McSorley,23,2016,61,56,86,84,68,95,0.3,4
-RB,Mark Ingram,29,2008,72,94,91,89,88,77,2.5,3
+RB,Mark Ingram,29,2008,72,94,91,89,88,83,2.5,3
 RB,Kenneth Dixon,25,2013,79,82,94,84,87,81,0.6,1
 RB,Gus Edwards,24,2015,79,82,79,84,88,74,0.3,1
 RB,Justice Hill,21,2016,83,69,91,64,90,72,0.4,4
@@ -65,8 +65,8 @@ END_PLAYERS
 Cleveland Browns,CLE
 QB,Baker Mayfield,24,2015,82,80,88,93,87,100,4.1,4
 QB,David Blough,24,2016,52,55,0,82,69,85,0.3,3
-RB,Nick Chubb,23,2015,94,86,87,89,90,76,0.9,3
-RB,Kareem Hunt,24,2015,87,76,84,89,90,83,0.6,1
+RB,Nick Chubb,23,2015,94,86,87,89,90,83,0.9,3
+RB,Kareem Hunt,24,2015,87,76,84,89,85,83,0.6,1
 RB,Dontrell Hilliard,24,2015,63,61,89,72,92,70,0.3,1
 WR,Odell Beckham Jr,26,2011,95,93,85,94,94,99,9,5
 WR,Jarvis Landry,26,2011,85,86,85,90,89,91,7.6,4
@@ -127,7 +127,7 @@ Cincinnati Bengals,CIN
 QB,Andy Dalton,31,2008,57,84,88,88,87,84,8,2
 QB,Jeff Driskel,26,2013,63,64,84,83,66,96,0.4,1
 QB,Ryan Finley,23,2016,64,61,86,84,73,73,0.4,4
-RB,Joe Mixon,23,2014,97,89,88,76,91,84,0.7,2
+RB,Joe Mixon,23,2014,97,89,88,83,91,84,0.7,2
 RB,Rodney Anderson,22,2016,74,67,88,77,89,72,0.3,4
 RB,Giovani Bernard,27,2010,70,77,92,52,91,81,2.4,3
 RB,Trayveon Williams,21,2016,80,68,81,58,89,74,0.3,4
@@ -192,9 +192,9 @@ LB,Hardy Nickerson,25,2014,69,71,92,84,65,73,0.6,1
 LB,Deshaun Davis,22,2016,69,61,87,81,70,74,0.6,4
 END_PLAYERS
 Pittsburgh Steelers,PIT
-QB,Ben Roethlisberger,37,2001,35,89,90,91,88,92,17,3
+QB,Ben Roethlisberger,37,2001,35,89,90,91,92,92,17,3
 QB,Mason Rudolph,24,2015,66,66,91,84,81,90,0.5,3
-RB,James Conner,24,2014,85,87,88,86,86,76,0.4,2
+RB,James Conner,24,2014,85,87,88,86,86,82,0.4,2
 RB,Benny Snell Jr,21,2016,86,74,88,82,84,75,0.4,4
 RB,Jaylen Samuels,23,2015,78,72,91,76,88,73,0.3,3
 RB,Trey Edmunds,24,2014,62,60,88,71,90,77,0.6,2
@@ -259,7 +259,6 @@ QB,Matt Barkley,28,2010,61,71,90,79,80,79,1,2
 RB,TJ Yeldon,25,2012,78,78,85,77,88,79,0.8,2
 RB,Devin Singletary,21,2016,81,63,80,76,86,78,0.5,4
 RB,Frank Gore,36,2002,36,99,87,83,84,76,1,1
-RB,LeSean McCoy,31,2006,58,83,87,51,89,82,1.5,1
 RB,Patrick DiMarco,30,2008,59,80,76,73,74,64,1.1,2
 WR,Cole Beasley,30,2009,69,89,84,88,87,83,3.6,4
 WR,John Brown,29,2011,66,86,93,79,94,85,4.5,3
@@ -319,7 +318,7 @@ LB,Vosean Joseph,21,2016,76,63,84,78,68,74,0.4,4
 LB,Maurice Alexander,28,2011,61,69,86,75,60,78,0.5,1
 END_PLAYERS
 New England Patriots,NE
-QB,Tom Brady,42,1997,39,99,88,91,95,79,11.5,1
+QB,Tom Brady,42,1997,39,99,88,93,100,79,11.5,1
 QB,Jarrett Stidham,22,2016,65,61,91,87,72,81,0.4,4
 QB,Danny Etling,25,2015,54,57,0,85,70,80,0.6,1
 QB,Brian Hoyer,33,2007,35,77,85,80,78,74,2,3
@@ -385,7 +384,7 @@ LB,Christian Sam,23,2015,63,51,83,78,75,75,0.6,3
 END_PLAYERS
 Miami Dolphins,MIA
 QB,Josh Rosen,22,2015,78,72,87,87,81,87,2.2,4
-QB,Ryan Fitzpatrick,36,2002,31,81,85,86,83,95,2.8,2
+QB,Ryan Fitzpatrick,36,2002,31,81,85,86,83,88,2.8,2
 QB,Jake Rudock,26,2013,58,65,0,82,69,80,5.8,2
 RB,Kenyan Drake,25,2013,80,80,92,64,91,80,0.4,1
 RB,Kalen Ballage,23,2015,74,64,90,85,91,74,0.4,3
@@ -444,7 +443,7 @@ QB,Sam Darnold,22,2015,84,78,86,88,82,88,3.8,4
 QB,Davis Webb,24,2014,61,65,93,85,74,83,0.6,2
 QB,Trevor Siemian,27,2012,58,68,85,81,77,76,1,1
 QB,Luke Falk,24,2015,52,51,88,80,75,78,0.3,1
-RB,Le'Veon Bell,27,2010,80,85,90,90,89,86,6.6,4
+RB,Le'Veon Bell,27,2010,80,85,90,90,89,89,6.6,4
 RB,Elijah McGuire,25,2014,71,73,78,79,89,79,0.6,1
 RB,Ty Montgomery,26,2012,73,71,92,67,89,77,0.4,1
 RB,Jalin Moore,23,2016,67,57,83,78,88,70,0.3,3
@@ -506,7 +505,7 @@ END_PLAYERS
 Tennessee Titans,TEN
 QB,Marcus Mariota,25,2012,79,79,92,88,87,100,3,1
 QB,Ryan Tannehill,31,2009,52,75,88,89,83,96,1,1
-RB,Derrick Henry,25,2013,82,81,89,87,89,75,0.7,1
+RB,Derrick Henry,25,2013,82,81,89,87,89,79,0.7,1
 RB,Dion Lewis,28,2008,73,78,90,61,90,89,2.5,3
 RB,Alex Barnes,22,2016,68,61,88,83,86,71,0.6,4
 RB,Jeremy McNichols,23,2014,67,62,85,78,89,64,0.6,3
@@ -568,7 +567,7 @@ QB,Joshua Dobbs,24,2014,65,67,91,84,78,97,0.4,2
 QB,Nick Foles,30,2009,64,83,88,87,84,74,11,4
 QB,Gardner Minshew,23,2016,68,64,85,83,74,87,0.3,4
 QB,Alex McGough,23,2015,64,63,88,81,70,86,0.2,1
-RB,Leonard Fournette,24,2014,82,82,81,90,92,75,3.4,3
+RB,Leonard Fournette,24,2014,82,82,81,94,97,85,3.4,3
 RB,Alfred Blue,28,2011,70,82,85,84,86,68,0.4,1
 RB,Ryquell Armstead,22,2016,74,70,90,81,90,70,0.4,4
 RB,Thomas Rawls,26,2012,67,68,90,83,90,71,6.7,2
@@ -624,7 +623,7 @@ LB,Najee Goode,30,2009,53,70,85,75,75,72,0.4,1
 LB,Joe Giles-Harris,22,2016,64,56,88,81,70,71,0.6,4
 END_PLAYERS
 Houston Texans,HOU
-QB,Deshaun Watson,23,2014,87,77,94,89,85,100,1.7,3
+QB,Deshaun Watson,23,2014,87,77,94,89,89,100,1.7,3
 QB,AJ McCarron,28,2011,61,73,88,80,78,82,1.5,1
 QB,Joe Webb,32,2007,36,66,85,78,63,99,0.5,1
 RB,Duke Johnson,25,2012,79,77,85,61,89,85,0.6,1
@@ -690,7 +689,7 @@ END_PLAYERS
 Indianapolis Colts,IND
 QB,Jacoby Brissett,26,2013,73,74,90,91,80,97,7.5,2
 QB,Phillip Walker,23,2015,64,60,87,85,69,96,0.6,3
-RB,Marlon Mack,23,2014,93,87,84,62,89,79,0.4,2
+RB,Marlon Mack,23,2014,93,87,84,82,89,84,0.4,2
 RB,Spencer Ware,27,2010,73,85,88,88,87,77,7.3,2
 RB,Jordan Wilkins,25,2015,72,72,87,81,88,76,0.3,3
 RB,Nyheim Hines,22,2015,82,72,86,45,93,82,0.4,3
@@ -750,8 +749,9 @@ END_PLAYERS
 Kansas City Chiefs,KC
 QB,Patrick Mahomes,23,2014,104,92,92,96,94,100,2.1,3
 QB,Kyle Shurmur,22,2016,61,59,89,83,71,74,0.6,4
+RB,LeSean McCoy,31,2006,58,83,87,51,89,82,1.5,1
 RB,Damien Williams,27,2011,73,83,95,74,90,82,1.3,2
-RB,Carlos Hyde,28,2011,68,75,88,85,87,79,1.4,1
+RB,Carlos Hyde,28,2011,68,75,88,85,87,70,1.4,1
 RB,Darrel Williams,24,2015,62,61,85,80,83,72,0.3,2
 RB,Anthony Sherman,30,2008,64,83,94,75,78,54,0.5,1
 RB,Darwin Thompson,22,2016,68,59,91,60,88,75,0.3,4
@@ -811,7 +811,7 @@ QB,Drew Lock,22,2016,71,62,79,88,79,82,0.9,4
 QB,Joe Flacco,34,2005,38,77,90,92,81,86,11.1,3
 QB,Brett Rypien,22,2016,67,66,90,82,72,82,0.6,4
 QB,Kevin Hogan,26,2013,57,59,84,79,69,86,5.7,2
-RB,Phillip Lindsay,25,2015,87,88,93,70,93,86,0.3,2
+RB,Phillip Lindsay,25,2015,87,88,93,80,93,86,0.3,2
 RB,Royce Freeman,23,2015,85,79,89,86,88,73,0.5,3
 RB,Devontae Booker,27,2013,65,73,94,77,88,82,0.3,1
 RB,Andy Janovich,26,2013,77,82,88,79,79,54,0.3,1
@@ -864,10 +864,10 @@ LB,Joseph Jones,25,2014,61,60,86,76,66,76,0.6,1
 END_PLAYERS
 Los Angeles Chargers,LAC
 QB,Tyrod Taylor,30,2008,57,72,85,87,80,99,2.8,2
-QB,Philip Rivers,37,2001,38,98,85,87,95,75,10.4,1
+QB,Philip Rivers,37,2001,38,98,85,92,97,86,10.4,1
 QB,Easton Stick,22,2016,68,62,88,83,75,96,0.3,4
 QB,Cardale Jones,26,2013,57,58,90,92,62,86,5.7,2
-RB,Melvin Gordon,26,2012,94,95,85,78,92,88,1.3,1
+RB,Melvin Gordon,26,2012,94,95,85,85,92,88,1.3,1
 RB,Austin Ekeler,24,2014,83,84,95,69,92,84,0.3,1
 RB,Justin Jackson,23,2015,80,73,88,75,89,79,0.3,2
 RB,Detrez Newsome,25,2015,63,62,86,81,88,73,0.6,1
@@ -925,12 +925,12 @@ LB,Kyle Wilson,23,2015,64,55,86,82,70,75,0.6,3
 LB,Nick Dzubnar,28,2012,59,69,86,85,56,70,0.8,1
 END_PLAYERS
 Las Vegas Raiders,LV
-QB,Derek Carr,28,2011,73,82,88,91,86,92,12.5,4
+QB,Derek Carr,28,2011,73,82,88,91,89,92,12.5,4
 QB,Mike Glennon,29,2010,51,67,88,85,77,70,1,1
 QB,Nathan Peterman,25,2014,53,56,0,79,71,87,0.3,1
 RB,Isaiah Crowell,26,2011,82,84,88,83,88,78,0.5,1
 RB,Doug Martin,30,2009,67,90,88,86,87,74,6.7,2
-RB,Josh Jacobs,21,2016,90,76,95,85,85,64,1.5,5
+RB,Josh Jacobs,21,2016,90,76,95,85,85,79,1.5,5
 RB,Jalen Richard,25,2013,76,77,94,72,90,83,1.5,1
 RB,DeAndre Washington,26,2013,74,74,92,73,91,78,0.3,1
 RB,Chris Warren,23,2015,60,49,89,84,84,61,0.6,3
@@ -995,7 +995,7 @@ QB,Mitchell Trubisky,25,2014,76,76,88,88,81,97,3.6,3
 QB,Chase Daniel,32,2006,40,71,87,81,79,85,2.5,1
 RB,Tarik Cohen,24,2014,83,80,92,65,92,92,0.4,2
 RB,Mike Davis,26,2012,80,83,97,81,89,74,1.5,2
-RB,David Montgomery,22,2016,79,73,86,79,84,73,0.5,4
+RB,David Montgomery,22,2016,79,73,86,79,88,79,0.5,4
 RB,Kerrith Whyte,22,2016,68,60,87,58,92,70,0.6,4
 RB,Ryan Nall,23,2015,62,55,92,80,86,62,0.6,3
 WR,Allen Robinson,26,2011,88,90,89,89,90,94,7,2
@@ -1047,10 +1047,10 @@ LB,Joel Iyiegbuniwe,23,2015,68,59,89,81,73,81,0.4,3
 LB,Kevin Pierre-Louis,27,2011,66,78,92,82,59,71,0.4,1
 END_PLAYERS
 Green Bay Packers,GB
-QB,Aaron Rodgers,35,2002,36,91,97,94,91,93,16.8,5
+QB,Aaron Rodgers,35,2002,36,91,97,94,93,93,16.8,5
 QB,DeShone Kizer,23,2014,70,64,89,88,76,95,0.6,2
 QB,Tim Boyle,24,2015,59,62,88,83,71,77,0.3,2
-RB,Aaron Jones,24,2014,84,86,92,84,90,74,0.3,2
+RB,Aaron Jones,24,2014,84,86,92,84,90,8k4,0.3,2
 RB,Jamaal Williams,24,2014,79,81,85,82,88,72,0.4,2
 RB,Kapri Bibbs,26,2011,69,72,88,80,85,71,6.9,2
 RB,Dexter Williams,22,2016,72,65,88,62,88,76,0.3,4
@@ -1111,7 +1111,7 @@ Minnesota Vikings,MIN
 QB,Kirk Cousins,31,2009,58,86,85,86,87,84,16,2
 QB,Kyle Sloter,25,2014,59,62,91,83,74,96,0.6,1
 QB,Sean Mannion,27,2012,54,66,84,82,73,79,0.4,1
-RB,Dalvin Cook,24,2014,88,76,94,80,91,87,0.8,2
+RB,Dalvin Cook,24,2014,88,76,94,87,91,87,0.8,2
 RB,Alexander Mattison,21,2016,83,71,85,78,86,71,0.4,4
 RB,CJ Ham,26,2013,74,77,86,79,83,64,0.3,1
 RB,Mike Boone,24,2015,64,60,94,64,90,76,0.3,2
@@ -1169,10 +1169,10 @@ LB,Kentrell Brothers,26,2013,61,57,86,85,74,76,0.3,1
 LB,Devante Downs,23,2015,65,56,88,82,65,76,0.6,3
 END_PLAYERS
 Detroit Lions,DET
-QB,Matthew Stafford,31,2006,56,80,93,94,84,87,13.5,4
+QB,Matthew Stafford,31,2006,56,80,93,98,85,87,13.5,4
 QB,Connor Cook,26,2013,60,68,0,80,70,79,6,2
 QB,Tom Savage,29,2011,46,60,88,85,72,80,4.6,2
-RB,Kerryon Johnson,22,2015,90,83,88,86,88,77,0.8,3
+RB,Kerryon Johnson,22,2015,90,83,88,86,88,84,0.8,3
 RB,CJ Anderson,28,2010,76,88,90,86,89,77,7.6,2
 RB,Zach Zenner,26,2012,75,80,85,82,87,66,7.5,2
 RB,Theo Riddick,28,2010,69,76,81,53,87,85,1.3,1
@@ -1297,10 +1297,10 @@ LB,Cole Holcomb,23,2016,70,63,85,77,72,75,0.3,4
 LB,Josh Harvey-Clemons,25,2014,64,68,88,79,61,72,0.3,2
 END_PLAYERS
 Dallas Cowboys,DAL
-QB,Dak Prescott,26,2013,82,83,95,87,87,98,0.3,1
+QB,Dak Prescott,26,2013,82,83,95,89,90,98,0.3,1
 QB,Cooper Rush,25,2014,58,63,87,82,71,78,0.3,1
 QB,Mike White,24,2015,56,59,94,82,72,74,0.6,2
-RB,Ezekiel Elliott,24,2013,96,98,93,84,90,85,7.5,8
+RB,Ezekiel Elliott,24,2013,96,98,93,90,90,89,7.5,8
 RB,Mike Weber,22,2016,74,70,80,71,89,69,0.6,4
 RB,Darius Jackson,25,2013,64,66,87,82,92,65,0.6,1
 RB,Jamize Olawale,30,2009,56,71,85,86,85,62,0.9,3
@@ -1365,14 +1365,14 @@ LB,Sean Lee,33,2007,44,91,90,86,80,86,1.8,1
 LB,Joe Thomas,28,2011,65,77,88,80,67,78,0.9,1
 END_PLAYERS
 Philadelphia Eagles,PHI
-QB,Carson Wentz,26,2013,82,82,90,90,86,99,16,6
+QB,Carson Wentz,26,2013,82,82,90,90,89,99,16,6
 QB,Clayton Thorson,23,2016,68,67,85,83,72,80,0.6,3
 QB,Cody Kessler,26,2013,64,67,88,83,76,76,0.4,1
 QB,Nate Sudfeld,25,2013,59,61,91,86,73,75,1.5,1
 RB,Jordan Howard,24,2013,82,84,82,87,89,76,0.3,1
 RB,Wendell Smallwood,25,2013,76,79,91,79,91,72,0.3,1
 RB,Corey Clement,24,2014,75,75,90,78,87,78,0.3,1
-RB,Miles Sanders,22,2016,79,71,88,73,89,79,0.7,4
+RB,Miles Sanders,22,2016,79,71,88,84,89,79,0.7,4
 RB,Josh Adams,22,2015,79,72,90,82,89,67,0.6,4
 RB,Donnel Pumphrey,24,2014,60,52,81,59,91,77,0.6,2
 RB,Boston Scott,24,2015,61,54,92,52,92,76,0.6,2
@@ -1430,10 +1430,10 @@ LB,Nigel Bradham,29,2009,64,81,86,80,67,85,4,4
 LB,LJ Fort,29,2010,54,70,91,84,59,78,5.4,2
 END_PLAYERS
 New York Giants,NYG
-QB,Daniel Jones,22,2016,73,69,87,87,78,90,3.2,5
+QB,Daniel Jones,22,2016,73,69,87,87,83,90,3.2,5
 QB,Kyle Lauletta,24,2015,59,56,82,84,78,95,0.6,2
 QB,Eli Manning,38,2001,30,79,90,84,83,75,10.5,1
-RB,Saquon Barkley,22,2015,94,79,92,83,92,90,3.9,4
+RB,Saquon Barkley,22,2015,94,79,92,93,92,90,3.9,4
 RB,Wayne Gallman,24,2014,77,79,87,86,89,80,0.4,2
 RB,Rod Smith,27,2012,67,79,90,81,86,68,6.7,2
 RB,Paul Perkins,24,2013,63,59,87,66,89,74,0.3,1
@@ -1493,10 +1493,10 @@ LB,Ryan Connelly,23,2016,71,64,90,81,67,76,0.4,4
 END_PLAYERS
 New Orleans Saints,NO
 QB,Teddy Bridgewater,26,2011,74,75,90,84,82,98,3.6,1
-QB,Drew Brees,40,1998,38,97,91,85,95,76,12.5,1
+QB,Drew Brees,40,1998,38,97,91,90,99,76,12.5,1
 QB,Taysom Hill,29,2014,54,78,90,82,68,98,0.3,1
 QB,JT Barrett IV,24,2015,56,59,90,79,69,95,0.6,2
-RB,Alvin Kamara,24,2014,89,87,84,87,89,87,0.5,2
+RB,Alvin Kamara,24,2014,89,87,84,87,95,90,0.5,2
 RB,Latavius Murray,28,2010,72,81,91,88,90,75,1.8,4
 RB,Javorius Allen,28,2012,63,70,94,82,88,71,6.3,2
 RB,Dwayne Washington,25,2013,69,70,91,56,90,73,0.3,1
@@ -1560,7 +1560,7 @@ QB,Cam Newton,30,2008,69,88,85,93,85,102,10.4,2
 QB,Will Grier,24,2016,67,68,85,86,79,84,0.5,4
 QB,Taylor Heinicke,26,2012,62,70,89,80,70,85,6.2,2
 QB,Kyle Allen,23,2015,59,58,0,84,68,80,0.3,1
-RB,Christian McCaffrey,23,2014,97,86,84,54,91,91,2.2,3
+RB,Christian McCaffrey,23,2014,97,86,84,86,93,94,2.2,3
 RB,Elijah Holyfield,21,2016,77,65,89,79,84,67,0.6,5
 RB,Jordan Scarlett,23,2016,70,64,83,75,90,70,0.4,4
 RB,Cameron Artis-Payne,29,2012,51,60,92,79,88,69,5.1,2
@@ -1683,8 +1683,8 @@ LB,Corey Nelson,27,2011,62,72,92,79,66,72,0.4,1
 LB,Jack Cichy,23,2015,63,52,88,82,71,74,0.3,3
 END_PLAYERS
 Atlanta Falcons,ATL
-QB,Matt Ryan,34,2005,45,90,89,88,92,89,15,5
-RB,Devonta Freeman,27,2011,80,88,94,85,92,88,4.1,4
+QB,Matt Ryan,34,2005,45,90,89,92,92,89,15,5
+RB,Devonta Freeman,27,2011,80,88,94,88,92,88,4.1,4
 RB,Ito Smith,23,2015,84,77,91,50,91,78,0.4,3
 RB,Qadree Ollison,22,2016,72,66,86,80,86,68,0.4,4
 RB,Brian Hill,23,2014,68,61,89,85,88,68,0.3,1
@@ -1743,7 +1743,7 @@ END_PLAYERS
 Los Angeles Rams,LAR
 QB,Jared Goff,24,2013,84,85,93,89,89,89,16.8,6
 QB,Blake Bortles,27,2011,63,70,90,86,79,97,0.5,1
-RB,Todd Gurley,25,2012,94,91,90,84,92,92,7.2,5
+RB,Todd Gurley,25,2012,94,91,90,87,92,92,7.2,5
 RB,Malcolm Brown,26,2012,76,80,90,83,89,65,0.8,2
 RB,John Kelly,22,2015,70,62,90,87,85,74,0.6,4
 RB,Darrell Henderson,22,2016,76,66,93,67,89,78,0.5,4
@@ -1805,7 +1805,7 @@ Seattle Seahawks,SEA
 QB,Russell Wilson,30,2009,74,93,94,89,91,102,17.5,5
 QB,Geno Smith,28,2010,57,68,87,85,72,90,0.4,1
 QB,Paxton Lynch,25,2013,59,61,87,86,69,91,0.6,1
-RB,Chris Carson,24,2014,90,93,90,87,88,77,0.6,2
+RB,Chris Carson,24,2014,90,93,90,87,88,84,0.6,2
 RB,Rashaad Penny,23,2015,84,74,85,70,90,83,1.3,4
 RB,Travis Homer,21,2016,79,69,94,70,90,71,0.3,4
 RB,CJ Prosise,25,2013,66,66,83,80,90,76,0.4,1
@@ -1938,7 +1938,7 @@ Arizona Cardinals,ARI
 QB,Kyler Murray,22,2016,76,65,82,89,81,101,4.4,5
 QB,Brett Hundley,26,2012,68,70,90,85,78,94,0.9,1
 QB,Chad Kanoff,24,2015,53,58,0,81,68,85,0.6,2
-RB,David Johnson,27,2012,79,89,91,86,92,84,6.5,3
+RB,David Johnson,27,2012,79,89,91,86,92,87,6.5,3
 RB,TJ Logan,24,2014,70,68,88,62,93,80,0.3,2
 RB,Chase Edmonds,23,2015,76,66,91,51,88,77,0.4,3
 RB,DJ Foster,25,2013,60,58,90,67,90,70,0.3,1
