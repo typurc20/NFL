@@ -1050,7 +1050,7 @@ Green Bay Packers,GB
 QB,Aaron Rodgers,35,2002,36,91,97,94,93,93,16.8,5
 QB,DeShone Kizer,23,2014,70,64,89,88,76,95,0.6,2
 QB,Tim Boyle,24,2015,59,62,88,83,71,77,0.3,2
-RB,Aaron Jones,24,2014,84,86,92,84,90,8k4,0.3,2
+RB,Aaron Jones,24,2014,84,86,92,84,90,84,0.3,2
 RB,Jamaal Williams,24,2014,79,81,85,82,88,72,0.4,2
 RB,Kapri Bibbs,26,2011,69,72,88,80,85,71,6.9,2
 RB,Dexter Williams,22,2016,72,65,88,62,88,76,0.3,4
