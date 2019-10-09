@@ -1044,7 +1044,7 @@ LB,Joel Iyiegbuniwe,23,2015,68,59,89,81,73,81,0.5,2
 LB,Kevin Pierre-Louis,27,2011,66,78,92,82,59,71,0.5,1
 END_PLAYERS
 Green Bay Packers,GB
-QB,Aaron Rodgers,35,2002,50,91,97,94,93,93,21,5
+QB,Aaron Rodgers,35,2002,65,91,97,94,93,93,21,5
 QB,DeShone Kizer,23,2014,70,64,89,88,76,85,0.8,2
 QB,Tim Boyle,24,2015,59,62,88,83,71,77,0.4,2
 RB,Aaron Jones,24,2014,84,86,92,85,90,85,0.4,2
